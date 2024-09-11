@@ -1,4 +1,11 @@
-# Digital-Tech-AI
-Digital Tech and AI Course materials
+# Цифровые технологии и искусственный интеллект
+## Учебные материалы
 
+Лекция 1. Презентация
 [ИИ помощники](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/AI%20Assistants.pdf)
+
+Задания для самостояельной работы
+- Установить среду разработки GigaIDE и сгенерировать простую программу на Python типа Hello World.
+- Изучить онлайн курс по работе с GigaChat
+- (доп. задание) Изучить онлайн-курс по ИИ
+- 
