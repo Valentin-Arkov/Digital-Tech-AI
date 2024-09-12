@@ -3,6 +3,7 @@
 
 ## Лекция 1
 [ИИ помощники (презентация PDF)](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/AI%20Assistants.pdf)
+
 [Первый опрос](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/2024-09-12-Ya.Form.xlsx) с помощью [Яндекс.Форм]((https://forms.yandex.ru/))
 
 Задания для самостоятельной работы
