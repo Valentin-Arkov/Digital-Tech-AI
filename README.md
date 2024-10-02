@@ -2,7 +2,7 @@
 Учебные материалы по курсу
 
 ## Лекция 1. ИИ помощники
-[ИИ помощники (презентация PDF)](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/AI%20Assistants.pdf)
+[ИИ помощники (PDF)](DT-01-AI.pdf)
 
 [Первый опрос](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/2024-09-12-Ya.Form.xlsx) с помощью [Яндекс.Форм]((https://forms.yandex.ru/))
 
