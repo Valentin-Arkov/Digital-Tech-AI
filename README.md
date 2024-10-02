@@ -3,7 +3,9 @@
 
 ## Опубликованные материалы
 [Канал автора на Youtube](https://www.youtube.com/@ValentinArkov/playlists)
+
 [Канал автора на Rutube](https://rutube.ru/channel/23958653/playlists/)
+
 [Учебные пособия автора на Ridero](https://ridero.ru/books/catalog/?q=Валентин%20Арьков)
 
 ## Тема 1 ИИ помощники
