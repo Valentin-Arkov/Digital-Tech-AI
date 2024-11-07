@@ -34,7 +34,7 @@
 
 # Лабораторные работы
 
-[Описание ЛР - Пособие PDF](DT-LR.pdf)
+[Описание ЛР - Пособие](https://ridero.ru/books/cifrovye_tekhnologii_i_iskusstvennyi_intellekt/)
 
 ## Лабораторная работа 1 Конструирование запросов
 
