@@ -75,7 +75,7 @@
 
 [Арьков В.Ю. Виртуализация и контейнеризация](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
 
-## Результаты лабораторных работ (2024-12-04)
+## Результаты лабораторных работ (2024-12-09)
 
-![Принято](2024-12-04-DTAI-LR.jpg)
+![Принято](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/2024-12-09-LR.png))
 
