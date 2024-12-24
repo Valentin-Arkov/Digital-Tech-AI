@@ -79,3 +79,6 @@
 
 ![Принято](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/2024-12-09-LR.png))
 
+# Очень дополнительные материалы
+
+[ЗАЧОТ без хлопот!](https://clck.ru/3FRRyM)
