@@ -3,7 +3,7 @@
 
 # Весна 2025
 
-Цифровой марафон
+[Лекция 1. Цифровой марафон](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Marathon.pdf)
 
 ЛР1 Курс по теории алгоритмов в рамках Цифрового марафона
 
