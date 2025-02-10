@@ -10,9 +10,11 @@
 
 ## ЛР1. Теория алгоритмов
 
-[Основы алгоритмов и структур данных](https://netology.ru/profile/program/algo-basics-1/schedule) в рамках Цифрового марафона
+Изучаем онлайн-курс 
+[Основы алгоритмов и структур данных](https://netology.ru/profile/program/algo-basics-1/schedule) 
+в рамках Цифрового марафона
 
-[Загрузка сертификата по ЛР1](https://forms.yandex.ru/u/67a9f31849363982dd4d79c2/)
+[Загрузка отчета по ЛР1](https://forms.yandex.ru/u/67a9f31849363982dd4d79c2/)
 
 ## ЛР2. Алгоритмическая сложность
 
