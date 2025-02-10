@@ -5,13 +5,18 @@
 
 [Лекция 1. Цифровой марафон](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Marathon.pdf)
 
-ЛР1 Курс по теории алгоритмов в рамках Цифрового марафона
+[Цифровой марафон: Регистрация](https://it-marathon.21-school.ru)
+
+
+ЛР1 [Основы алгоритмов и структур данных](https://netology.ru/profile/program/algo-basics-1/schedule) в рамках Цифрового марафона
 
 Загрузка сертификата по ЛР1
 
 ЛР2 Практическое измерение вычислительной мощности алгоритма - по вариантам заданий
 
-## Опубликованные материалы
+# Осень 2024
+
+## Материалы
 [Канал автора на Youtube](https://www.youtube.com/@ValentinArkov/playlists)
 
 [Канал автора на Rutube](https://rutube.ru/channel/23958653/playlists/)
