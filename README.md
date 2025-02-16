@@ -7,6 +7,7 @@
 
 [Цифровой марафон: Регистрация](https://it-marathon.21-school.ru)
 
+[Лекция 2. Анализ алгоритмов](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-Analysis.pdf)
 
 ## ЛР1. Теория алгоритмов
 
