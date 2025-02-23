@@ -31,6 +31,16 @@
 
 [Варианты заданий по номеру в списке группы](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/LR2-Tasks.pdf)
 
+[Загрузка отчета по ЛР2](https://forms.yandex.ru/u/67bb640a068ff09f8fa73ac5/)
+
+## ЛР3. Презентация результатов
+
+## ЛР4. 
+
+## ЛР5.
+
+## ЛР6.
+
 # Осень 2024
 
 ## Материалы
