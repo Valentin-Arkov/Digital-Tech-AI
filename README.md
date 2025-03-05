@@ -130,3 +130,7 @@
 # Очень дополнительные материалы
 
 [ЗАЧОТ без хлопот!](https://clck.ru/3FRRyM)
+
+[Школа 21 от Сбера: Бесплатное обучение в Уфе!](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/21-school.pdf)
+
+
