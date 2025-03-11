@@ -41,6 +41,9 @@
 
 [Описание ЛР3](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-03-Present.pdf)
 
+[Загрузка отчета по ЛР3](https://forms.yandex.ru/u/67cfdb0aeb61462b9ba88b7d/)
+
+
 ## ЛР4. 
 
 ## ЛР5.
