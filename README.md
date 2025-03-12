@@ -50,7 +50,7 @@
 
 [Описание ЛР4](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-04-Video.pdf)
 
-[Загрузка отчета по ЛР4]()
+[Загрузка отчета по ЛР4](https://forms.yandex.ru/u/67d13bbc02848f6577fa9409/)
 
 
 ## ЛР5. Скрипты CMD, VBS, VBA
