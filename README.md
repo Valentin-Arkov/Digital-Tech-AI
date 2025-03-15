@@ -57,7 +57,9 @@
 
 [Описание ЛР5](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Scripts-1.pdf)
 
-[Загрузка отчета по ЛР5]()
+Отчет оформляем в Word, сохраняем в формате PDF.
+
+[Загрузка отчета по ЛР5](https://forms.yandex.ru/u/67d586d1e010dba133d48b3e/)
 
 ## ЛР6. Скрипты PS1, Bash
 
