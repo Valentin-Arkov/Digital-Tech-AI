@@ -55,6 +55,10 @@
 
 ## ЛР5. Скрипты CMD, VBS, VBA
 
+[Описание ЛР5](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Scripts-1.pdf)
+
+[Загрузка отчета по ЛР5]()
+
 ## ЛР6. Скрипты PS1, Bash
 
 # Осень 2024
