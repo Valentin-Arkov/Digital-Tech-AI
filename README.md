@@ -53,15 +53,14 @@
 [Загрузка отчета по ЛР4](https://forms.yandex.ru/u/67d13bbc02848f6577fa9409/)
 
 
-## ЛР5. Скрипты CMD, VBS, VBA
+## ЛР5+ЛР6. Скрипты
 
-[Описание ЛР5](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Scripts.pdf)
+[Описание ЛР5+ЛР6](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Scripts.pdf)
 
 Отчет оформляем в Word, сохраняем в формате PDF.
 
-[Загрузка отчета по ЛР5](https://forms.yandex.ru/u/67d586d1e010dba133d48b3e/)
+[Загрузка отчета по ЛР5+ЛР6](https://forms.yandex.ru/u/67d586d1e010dba133d48b3e/)
 
-## ЛР6. Скрипты PS1, Bash
 
 # Осень 2024
 
