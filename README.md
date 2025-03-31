@@ -3,11 +3,13 @@
 
 # Весна 2025
 
-[Лекция 1. Цифровой марафон](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Marathon.pdf)
+[Тема 1. Цифровой марафон](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Marathon.pdf)
 
 [Цифровой марафон: Регистрация](https://it-marathon.21-school.ru)
 
-[Лекция 2. Анализ алгоритмов](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-Analysis.pdf)
+[Школа 21 от Сбера: Бесплатное обучение в Уфе!](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/21-school.pdf)
+
+[Тема 2. Анализ алгоритмов](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-Analysis.pdf)
 
 ## ЛР1. Теория алгоритмов
 
@@ -146,6 +148,5 @@
 
 [ЗАЧОТ без хлопот!](https://clck.ru/3FRRyM)
 
-[Школа 21 от Сбера: Бесплатное обучение в Уфе!](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/21-school.pdf)
 
 
