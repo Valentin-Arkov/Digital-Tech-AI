@@ -57,7 +57,7 @@
 
 ## ЛР5+ЛР6. Скрипты
 
-[Описание ЛР5+ЛР6](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Scripts.pdf)
+[Описание ЛР5+ЛР6](https://ridero.ru/books/skripty_scenarii_avtomatizacii/)
 
 Отчет оформляем в Word, сохраняем в формате PDF.
 
