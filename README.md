@@ -1,6 +1,10 @@
 # Цифровые технологии и искусственный интеллект
 Учебные материалы профессора Арькова В.Ю. и подборки ссылок
 
+## Результаты лабораторных работ (2025-06-15)
+
+![Принято](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/IVT-zachot.jpg))
+
 # Весна 2025
 
 [Тема 1. Цифровой марафон](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Marathon.pdf)
@@ -134,9 +138,6 @@
 
 [Арьков В.Ю. Виртуализация и контейнеризация](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
 
-## Результаты лабораторных работ (2024-12-09)
-
-![Принято](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/2024-12-09-LR.png))
 
 # Очень дополнительные материалы
 
