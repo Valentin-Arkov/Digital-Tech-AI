@@ -1,10 +1,6 @@
 # Цифровые технологии и искусственный интеллект
 Учебные материалы профессора Арькова В.Ю. и подборки ссылок
 
-## Зачет по результатам лабораторных работ (2025-06-20)
-
-![Принято](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/IVT-zachot.jpg))
-
 # Весна 2025
 
 [Тема 1. Цифровой марафон](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Marathon.pdf)
