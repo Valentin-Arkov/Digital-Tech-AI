@@ -1,71 +1,13 @@
 # Цифровые технологии и искусственный интеллект
 Учебные материалы профессора Арькова В.Ю. и подборки ссылок
 
-# Весна 2025
-
-[Тема 1. Цифровой марафон](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Marathon.pdf)
-
-[Цифровой марафон: Регистрация](https://it-marathon.21-school.ru)
-
-[Школа 21 от Сбера: Бесплатное обучение в Уфе!](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/21-school.pdf)
-
-[Тема 2. Анализ алгоритмов](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-Analysis.pdf)
-
-## ЛР1. Теория алгоритмов
-
-Изучаем онлайн-курс 
-[Основы алгоритмов и структур данных](https://netology.ru/profile/program/algo-basics-1/schedule) 
-в рамках Цифрового марафона
-
-[Загрузка отчета по ЛР1](https://forms.yandex.ru/u/67a9f31849363982dd4d79c2/)
-
-Перед загрузкой ссылки на сертификат убедитесь, что в нем отображаются ваши полные фамилия, имя и отчество (при наличии). Для этого необходимо заполнить профиль на платформе Нетологии.
-
-## ЛР2. Алгоритмическая сложность
-
-Практическое измерение вычислительной сложности алгоритма по варианту.
-
-[Варианты заданий по номеру в списке группы](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/LR2-Tasks.pdf)
-
-[Загрузка отчета по ЛР2](https://forms.yandex.ru/u/67bb640a068ff09f8fa73ac5/)
-
-## ЛР3. Презентация результатов
-
-Представить результаты ЛР2 в виде презентации и доклада.
-
-При подготовке презентации и доклада используем нейросети, затем дорабатываем вручную.
-
-[Описание ЛР3](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-03-Present.pdf)
-
-[Загрузка отчета по ЛР3](https://forms.yandex.ru/u/67cfdb0aeb61462b9ba88b7d/)
-
-
-## ЛР4. Видеопрезентация результатов
-
-Записать доклад с презентацией в формате видеоролика
-
-[Описание ЛР4](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-04-Video.pdf)
-
-[Загрузка отчета по ЛР4](https://forms.yandex.ru/u/67d13bbc02848f6577fa9409/)
-
-
-## ЛР5+ЛР6. Скрипты
-
-[Описание ЛР5+ЛР6](https://ridero.ru/books/skripty_scenarii_avtomatizacii/)
-
-Отчет оформляем в Word, сохраняем в формате PDF.
-
-[Загрузка отчета по ЛР5+ЛР6](https://forms.yandex.ru/u/67d586d1e010dba133d48b3e/)
-
-
-# Осень 2024
-
-## Материалы
 [Канал автора на Youtube](https://www.youtube.com/@ValentinArkov/playlists)
 
 [Канал автора на Rutube](https://rutube.ru/channel/23958653/playlists/)
 
 [Учебные пособия автора на Ridero](https://ridero.ru/books/catalog/?q=Валентин%20Арьков)
+
+# Семестр 1
 
 ## Тема 1 ИИ помощники
 [ИИ помощники - Слайды PDF](DT-01-AI.pdf)
@@ -133,6 +75,65 @@
 Учебное пособие - описание работы
 
 [Арьков В.Ю. Виртуализация и контейнеризация](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
+
+
+# Семестр 2
+
+[Тема 1. Цифровой марафон](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/Marathon.pdf)
+
+[Цифровой марафон: Регистрация](https://it-marathon.21-school.ru)
+
+[Школа 21 от Сбера: Бесплатное обучение в Уфе!](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/21-school.pdf)
+
+[Тема 2. Анализ алгоритмов](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-Analysis.pdf)
+
+## ЛР1. Теория алгоритмов
+
+Изучаем онлайн-курс 
+[Основы алгоритмов и структур данных](https://netology.ru/profile/program/algo-basics-1/schedule) 
+в рамках Цифрового марафона
+
+[Загрузка отчета по ЛР1](https://forms.yandex.ru/u/67a9f31849363982dd4d79c2/)
+
+Перед загрузкой ссылки на сертификат убедитесь, что в нем отображаются ваши полные фамилия, имя и отчество (при наличии). Для этого необходимо заполнить профиль на платформе Нетологии.
+
+## ЛР2. Алгоритмическая сложность
+
+Практическое измерение вычислительной сложности алгоритма по варианту.
+
+[Варианты заданий по номеру в списке группы](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/LR2-Tasks.pdf)
+
+[Загрузка отчета по ЛР2](https://forms.yandex.ru/u/67bb640a068ff09f8fa73ac5/)
+
+## ЛР3. Презентация результатов
+
+Представить результаты ЛР2 в виде презентации и доклада.
+
+При подготовке презентации и доклада используем нейросети, затем дорабатываем вручную.
+
+[Описание ЛР3](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-03-Present.pdf)
+
+[Загрузка отчета по ЛР3](https://forms.yandex.ru/u/67cfdb0aeb61462b9ba88b7d/)
+
+
+## ЛР4. Видеопрезентация результатов
+
+Записать доклад с презентацией в формате видеоролика
+
+[Описание ЛР4](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-04-Video.pdf)
+
+[Загрузка отчета по ЛР4](https://forms.yandex.ru/u/67d13bbc02848f6577fa9409/)
+
+
+## ЛР5+ЛР6. Скрипты
+
+[Описание ЛР5+ЛР6](https://ridero.ru/books/skripty_scenarii_avtomatizacii/)
+
+Отчет оформляем в Word, сохраняем в формате PDF.
+
+[Загрузка отчета по ЛР5+ЛР6](https://forms.yandex.ru/u/67d586d1e010dba133d48b3e/)
+
+
 
 
 # Очень дополнительные материалы
