@@ -141,5 +141,5 @@
 
 [ЗАЧОТ без хлопот!](https://clck.ru/3FRRyM)
 
-
+[Знание. Академия. Искусство визуального просвещения](https://akademiya.znanierussia.ru/course/iskusstvo-vizualnogo-prosvesheniya/)
 
