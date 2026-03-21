@@ -141,5 +141,7 @@
 
 [ЗАЧОТ без хлопот!](https://clck.ru/3FRRyM)
 
-[Знание. Академия. Искусство визуального просвещения](https://akademiya.znanierussia.ru/course/iskusstvo-vizualnogo-prosvesheniya/)
+[Онлайн курс. Знание. Академия. Искусство визуального просвещения](https://akademiya.znanierussia.ru/course/iskusstvo-vizualnogo-prosvesheniya/)
+
+[Видео. Николай Пере: Искусство визуального просвещения](https://vkvideo.ru/video-135454514_456247675)
 
