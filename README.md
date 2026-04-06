@@ -87,6 +87,10 @@
 
 [Тема 2. Анализ алгоритмов](https://github.com/Valentin-Arkov/Digital-Tech-AI/blob/main/DT-Analysis.pdf)
 
+[Алгоритмы на Python. Онлайн-курс Образовательного центра Сириус](https://edu.sirius.online/#/course/2784)
+
+[Алгоритмы и структуры данных. Онлайн-курс ВК Образование](https://education.vk.company/program/kurs-algoritmy-structury-dannyh)
+
 ## ЛР1. Теория алгоритмов
 
 Изучить два бесплатных онлайн-курса по алгоритмам в рамках Цифрового марафона:
